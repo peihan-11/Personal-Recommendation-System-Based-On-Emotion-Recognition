@@ -17,6 +17,24 @@ The liver stores fat as fat, which can lead to adverse biochemical reactions suc
 Import the image recognition function and use the method of photographing fruits to perform image recognition. The purpose of recognition is to identify fruit items to estimate the maturity, sweetness, grams, nutrients, and other main nutritional components of the fruit, and automatically write them into the system. Use The simplified process design can increase users' convenience and willingness to use, and further develop the good habit of reducing sugar.
 3. Activity intensity analysis of individual fruit nutrients needed
 This system creates personalized daily fruit intake recommendations based on the user's activity intensity. According to the "Daily Dietary Guidelines" issued by the Ministry of Health and Welfare, food is divided into six major categories, namely whole grains, beans, fish, eggs, meat, dairy products, vegetables, fruits, oils, nuts, and seeds. Based on the individual's age, gender, height, weight, and exercise intensity, it calculates the individual's daily caloric needs and sugar intake and finally estimates the user's most appropriate number of fruit servings.
-4. System Context Diagram
 
+## System Context Diagram
 ![Image text](https://github.com/peihan-11/Senior-project/blob/main/image/Senior%20Project%EF%BC%BFSystem%20Context%20Diagram.jpg)
+1. Line Bot SDK: Use Visual Studio to write code as a back-end development tool that responds to user input information.
+2. Azure Web Service: Deploy Line Chatbot to Azure cloud service.
+3. Line Developers: Provides Line officials with the ability to upload self-developed chatbots to the cloud
+end operation.
+4. React Native: Develops a framework for the "Guo Ran You Liao" system, with many external functional packages, such as: react-
+native-image-picker, react-native-stack, etc.
+5. Azure Cosmos DB: As a database for back-end data access and writing, it stores the nutritional components of fruits.
+and user personal information. The source of food nutrition information is from the Ministry of Health and Welfare website.
+The product nutritional ingredients database (new version) and the Taipei City Government Food Login Platform are obtained through crawlers.
+6. Azure Custom Vision: Used to identify food, analyze its items and sugar content, and estimate the value of this food.
+   Vitamins, minerals, and other nutrients.
+7. Azure Cognitive Services: Used for facial recognition, analyzing user emotional intensity, and understanding usage
+   The physical and mental condition of the patient is taken into consideration when recommending fruits.
+8. Azure DevOps: Deploy reacts native app to Azure.
+9. Azure App Center: Use Azure App Center to open multiple simulators and quickly deploy
+and test.
+10. Google Maps Platform & Google Place Platform: Use this tool for location services,
+   Provide users with nearby stores to purchase fruits.
