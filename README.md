@@ -50,6 +50,7 @@ You can also know the approximate sweetness of the fruit before eating it.
 4. Combined with Google Maps, users can obtain the best stored information and real-time navigation to achieve the ultimate goal of healthy eating mark.
 5. Applications of the fruit tea recommendation system:
 - From a government perspective, since the system uses Line as an interactive platform, the government can use it to promote healthy eating concepts and save labor costs.
-- From the perspective of local businesses, marketing advertising can be carried out through the system to promote business information. 6. Future Outlook:
+- From the perspective of local businesses, marketing advertising can be carried out through the system to promote business information.
+6. Future Outlook:
 1. Provide more channels for purchasing fruits through the delivery platform and merchants, and provide users with consumption feedback, which increases users’ stickiness and brings further business opportunities to merchants.
 2. Integrate local tourism to promote local fruits and assist farmers in selling fruits to various parts of Taiwan.
