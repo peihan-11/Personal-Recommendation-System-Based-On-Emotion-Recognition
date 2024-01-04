@@ -36,5 +36,4 @@ The product nutritional ingredients database (new version) and the Taipei City G
 8. Azure DevOps: Deploy reacts native app to Azure.
 9. Azure App Center: Use Azure App Center to open multiple simulators and quickly deploy
 and test.
-10. Google Maps Platform & Google Place Platform: Use this tool for location services,
-   Provide users with nearby stores to purchase fruits.
+10. Google Maps Platform & Google Place Platform: Use this tool for location services and provide users with nearby stores to purchase fruits.
