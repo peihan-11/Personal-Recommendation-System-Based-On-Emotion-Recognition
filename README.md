@@ -37,3 +37,19 @@ The product nutritional ingredients database (new version) and the Taipei City G
 9. Azure App Center: Use Azure App Center to open multiple simulators and quickly deploy
 and test.
 10. Google Maps Platform & Google Place Platform: Use this tool for location services and provide users with nearby stores to purchase fruits.
+
+## System implementation video
+https://youtu.be/Od_Ol_qrnBo
+
+## Conclusion
+As expected - the emotion recognition fruit tea recommendation system, expected results are as follows: 
+1. Through image recognition technology, a more convenient food recording process is designed to allow users to develop the habit of food recording.
+You can also know the approximate sweetness of the fruit before eating it. 
+2. Personalized diet recommendations allow users to enjoy delicious food, improve their mood, and achieve goals while focusing on a healthy diet to nutritional balance. 
+3. Nutrient intake record statistics create a bar chart, and users can immediately check the nutritional intake status. 
+4. Combined with Google Maps, users can obtain the best stored information and real-time navigation to achieve the ultimate goal of healthy eating mark.
+5. Applications of the fruit tea recommendation system:
+- From a government perspective, since the system uses Line as an interactive platform, the government can use it to promote healthy eating concepts and save labor costs.
+- From the perspective of local businesses, marketing advertising can be carried out through the system to promote business information. 6. Future Outlook:
+1. Provide more channels for purchasing fruits through the delivery platform and merchants, and provide users with consumption feedback, which increases users’ stickiness and brings further business opportunities to merchants.
+2. Integrate local tourism to promote local fruits and assist farmers in selling fruits to various parts of Taiwan.
