@@ -18,3 +18,5 @@ Import the image recognition function and use the method of photographing fruits
 3. Activity intensity analysis of individual fruit nutrients needed
 This system creates personalized daily fruit intake recommendations based on the user's activity intensity. According to the "Daily Dietary Guidelines" issued by the Ministry of Health and Welfare, food is divided into six major categories, namely whole grains, beans, fish, eggs, meat, dairy products, vegetables, fruits, oils, nuts, and seeds. Based on the individual's age, gender, height, weight, and exercise intensity, it calculates the individual's daily caloric needs and sugar intake and finally estimates the user's most appropriate number of fruit servings.
 4. System Context Diagram
+
+![Image text](https://github.com/peihan-11/Senior-project/blob/main/image/Senior%20Project%EF%BC%BFSystem%20Context%20Diagram.jpg)
